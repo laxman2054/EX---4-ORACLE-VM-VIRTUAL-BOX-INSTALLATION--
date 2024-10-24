@@ -4,7 +4,7 @@
 # Assignment: Installation of Oracle VM VirtualBox
 
 
-### Name : Alluguri SriKrishna Teja
+### Name : S. Laxman Sudharsan Reddy
 ### Reg. No: 212222040159
 
 
